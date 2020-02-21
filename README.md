@@ -8,5 +8,5 @@ Esse é um projeto onde eu estou fazendo 3D a partir da perspectiva de um objeto
 
 # Problemas
 
-Os cálculos usados para renderizar deixa a aplicação pesada, se não estiver olhando para um quadrado ele não renderiza, mas caso você coloque muitos quadrados, o FPS cai.
-Às vezes buga na hora reconhecer qual objeto esta na frente e qual esta no fundo.
+- Os cálculos usados para renderizar deixa a aplicação pesada, se não estiver olhando para um quadrado ele não renderiza, mas caso você coloque muitos quadrados, o FPS cai.
+- Às vezes buga na hora reconhecer qual objeto esta na frente e qual esta no fundo.
